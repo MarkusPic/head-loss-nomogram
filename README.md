@@ -3,4 +3,4 @@ python function to plot a head loss nomogram
 
 for example:
 
-![Nomogramm k=0.1mm](Nomogramm_k_01mm.pdf)
+![Nomogramm k=0.1mm](Nomogramm_k_01mm.png)
